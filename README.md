@@ -7,7 +7,13 @@ WatchMovie is an Android application designed to help users explore a wide range
 5. Movie Cards: Movies are displayed in visually appealing cards, making it easy for users to browse through various options.
 6. Navigation to Details: Tapping on a movie card leads to a detailed screen with more in-depth information about the selected movie.
 7. Responsive Design: The app layout adapts well to different screen sizes and resolutions for an optimal viewing experience across devices.
-https://github.com/user-attachments/assets/b4b1fb09-3e8c-4ad4-868d-f9ee0d54fec6
-# images 
+8. # images 
 <img src="https://github.com/user-attachments/assets/90d7cfc9-518d-4494-943c-ddfff24c5a53" width="200" height="400">
 <img src="https://github.com/user-attachments/assets/32bd12b1-17e0-41d6-b697-9efc6129ec25" width="200" height="400">
+
+
+
+https://github.com/user-attachments/assets/95f28169-3431-4d95-bf3d-83026f4f3f24
+
+
+
